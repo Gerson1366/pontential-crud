@@ -1,5 +1,5 @@
 TN:
-SF:src/api/app.js
+SF:src\api\app.js
 FN:10,_default
 FNF:1
 FNH:1
@@ -29,7 +29,7 @@ BRF:1
 BRH:1
 end_of_record
 TN:
-SF:src/api/connection.js
+SF:src\api\connection.js
 FNF:0
 FNH:0
 DA:1,1
@@ -48,10 +48,11 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:src/controllers/DesenvolvedorController.js
+SF:src\controllers\DesenvolvedorController.js
 FN:1,_default
 FN:4,_callee
 FN:4,_callee$
+<<<<<<< HEAD
 FN:20,_callee2
 FN:20,_callee2$
 FN:34,_callee3
@@ -59,6 +60,12 @@ FN:49,_callee4
 FN:49,_callee4$
 FNF:8
 FNH:7
+=======
+FN:15,_callee2
+FN:15,_callee2$
+FNF:5
+FNH:5
+>>>>>>> 5f5c7356347607294c79211838abd574274cb345
 FNDA:1,_default
 FNDA:3,_callee
 FNDA:6,_callee$
@@ -71,6 +78,7 @@ DA:1,1
 DA:2,1
 DA:3,1
 DA:4,1
+<<<<<<< HEAD
 DA:5,0
 DA:6,0
 DA:7,0
@@ -81,6 +89,18 @@ DA:11,0
 DA:12,0
 DA:13,0
 DA:14,0
+=======
+DA:5,1
+DA:6,1
+DA:7,1
+DA:8,1
+DA:9,1
+DA:10,0
+DA:11,0
+DA:12,1
+DA:13,1
+DA:14,1
+>>>>>>> 5f5c7356347607294c79211838abd574274cb345
 DA:15,1
 DA:16,1
 DA:17,1
@@ -88,6 +108,7 @@ DA:18,1
 DA:19,1
 DA:20,1
 DA:21,1
+<<<<<<< HEAD
 DA:22,1
 DA:23,1
 DA:24,1
@@ -160,11 +181,39 @@ BRDA:58,23,0,0
 BRDA:49,24,0,1
 BRF:25
 BRH:20
+=======
+DA:22,0
+DA:23,0
+DA:24,1
+DA:25,0
+DA:26,0
+DA:27,1
+DA:28,1
+DA:29,1
+DA:30,1
+LF:30
+LH:24
+BRDA:1,0,0,1
+BRDA:4,1,0,1
+BRDA:4,2,0,1
+BRDA:4,3,0,1
+BRDA:9,4,0,0
+BRDA:4,5,0,1
+BRDA:15,6,0,1
+BRDA:15,7,0,1
+BRDA:15,8,0,1
+BRDA:21,9,0,0
+BRDA:24,10,0,0
+BRDA:15,11,0,1
+BRF:12
+BRH:9
+>>>>>>> 5f5c7356347607294c79211838abd574274cb345
 end_of_record
 TN:
-SF:src/models/DesenvolvedorModel.js
+SF:src\models\DesenvolvedorModel.js
 FN:5,_callee
 FN:5,_callee$
+<<<<<<< HEAD
 FN:15,_callee2
 FN:15,_callee2$
 FN:26,_callee3
@@ -176,6 +225,14 @@ FNF:9
 FNH:7
 FNDA:3,_callee
 FNDA:9,_callee$
+=======
+FN:24,_callee2
+FN:24,_callee2$
+FNF:4
+FNH:4
+FNDA:1,_callee
+FNDA:1,_callee$
+>>>>>>> 5f5c7356347607294c79211838abd574274cb345
 FNDA:1,_callee2
 FNDA:1,_callee2$
 FNDA:0,_callee3
@@ -190,17 +247,17 @@ DA:4,1
 DA:5,1
 DA:6,1
 DA:7,1
-DA:8,1
-DA:9,1
-DA:10,1
-DA:11,1
-DA:12,1
-DA:13,1
-DA:14,1
-DA:15,1
-DA:16,1
-DA:17,1
-DA:18,1
+DA:8,0
+DA:9,0
+DA:10,0
+DA:11,0
+DA:12,0
+DA:13,0
+DA:14,0
+DA:15,0
+DA:16,0
+DA:17,0
+DA:18,0
 DA:19,1
 DA:20,1
 DA:21,1
@@ -219,6 +276,7 @@ DA:33,1
 DA:34,1
 DA:35,1
 DA:36,1
+<<<<<<< HEAD
 DA:37,1
 DA:38,1
 DA:39,1
@@ -298,9 +356,33 @@ BRDA:68,28,0,2
 BRDA:70,29,0,0
 BRF:30
 BRH:19
+=======
+LF:36
+LH:25
+BRDA:5,0,0,1
+BRDA:5,1,0,1
+BRDA:5,2,0,1
+BRDA:7,3,0,0
+BRDA:5,4,0,0
+BRDA:5,5,0,0
+BRDA:5,6,0,0
+BRDA:5,7,0,0
+BRDA:5,8,0,1
+BRDA:24,9,0,1
+BRDA:24,10,0,1
+BRDA:24,11,0,1
+BRDA:24,12,0,0
+BRDA:24,13,0,0
+BRDA:24,14,0,0
+BRDA:24,15,0,0
+BRDA:24,16,0,0
+BRDA:24,17,0,1
+BRF:18
+BRH:8
+>>>>>>> 5f5c7356347607294c79211838abd574274cb345
 end_of_record
 TN:
-SF:src/routes/DesenvolvedorRouter.js
+SF:src\routes\DesenvolvedorRouter.js
 FN:4,_default
 FNF:1
 FNH:1
